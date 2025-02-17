@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.image-container {
+    margin: 20px auto;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    display: none;
+    border: 2px solid #000;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+select {
+    margin: 10px;
+    padding: 5px;
+}
